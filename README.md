@@ -175,7 +175,7 @@ The report automatically filters the detailed page according to the selected val
 
 # 📄 Detailed Analysis Page
 
-![Detailed Page](Images/detailed%20page.png)
+![Detailed Page](Images/detailed_page.png)
 
 The Detailed Analysis page displays filtered information based on the user's selected branch, manager, or pizza type.
 
