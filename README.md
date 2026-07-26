@@ -151,7 +151,7 @@ It enables management to monitor:
 
 # 🔍 Drill Through Functionality
 
-![Drill Through](Images/drill%20through%20technique(1).png)
+![Drill Through](Images/drill%20through%20technique.png)
 
 ## 📌 Overview
 
